@@ -1,6 +1,7 @@
 # 🌎 Earthquake Events Data Engineering Project (Microsoft Fabric)
 
 
+
 ## 📖 Project Overview
 
 This project focuses on building a **data engineering pipeline** using **Microsoft Fabric** tools to ingest, transform, and analyze **Worldwide Earthquake Events** from the **USGS API**.  
@@ -98,6 +99,7 @@ The goal is to implement a **Medallion Architecture** (Bronze, Silver, and Gold 
 - **Step 2**: Raw JSON data is stored in the **Bronze Layer**.
 - **Step 3**: Transformation notebooks clean the data for the **Silver Layer**.
 - **Step 4**: Business rules and structuring finalize data into the **Gold Layer**.
+- **Step 5**: Build a ETL pipeline to automate the **Medallion Architecture** 
 - **Step 5**: Power BI connects to the Lakehouse **SQL Analytics Endpoint** to visualize the global earthquake patterns.
 
 ---
