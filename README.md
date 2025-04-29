@@ -1,6 +1,6 @@
 # 🌎 Earthquake Events Data Engineering Project (Microsoft Fabric)
 
-![Architecture](./Architecture/Architecture%20%26%20Implementation%20.png)
+---
 
 ## 📖 Project Overview
 
@@ -18,6 +18,11 @@ The goal is to implement a **Medallion Architecture** (Bronze, Silver, and Gold 
   - **Gold**: Business-ready, tabular format optimized for reporting.
 - **Visualize** earthquake data using **Power BI**.
 - **Operationalize** the data pipeline using **Microsoft Fabric's Data Factory**.
+
+---
+## 🏛 Architecture
+
+![Architecture](./Architecture/Architecture%20%26%20Implementation%20.png)
 
 ---
 
