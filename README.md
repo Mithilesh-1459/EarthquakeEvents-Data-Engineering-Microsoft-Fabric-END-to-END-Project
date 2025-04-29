@@ -32,8 +32,9 @@ The goal is to implement a **Medallion Architecture** (Bronze, Silver, and Gold 
 |----------------------------|-------------------------------------------------|
 | **Microsoft Fabric**       | Unified platform for data engineering, orchestration, and analytics |
 | **Azure Synapse Data Engineering** | Build and manage the Lakehouse |
-| **Azure Data Factory**     | Data pipeline orchestration and automation |
+| **Azure Data Factory**     | Build and manage the azure tools that are necessary |
 | **Azure Data Lakehouse**   | Scalable data storage (structured/unstructured) |
+| **Azure Data Pipeline**   | Data pipeline orchestration and automation |
 | **Apache Spark** (PySpark) | API data ingestion and processing |
 | **Power BI**               | Data visualization and business reporting |
 | **USGS API**               | Source of global earthquake data |
