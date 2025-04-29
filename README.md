@@ -1,6 +1,6 @@
 # 🌎 Earthquake Events Data Engineering Project (Microsoft Fabric)
 
-![Architecture](./Architecture%20%26%20Implementation%20.png)
+![Architecture](./Architecture/Architecture%20%26%20Implementation%20.png)
 
 ## 📖 Project Overview
 
